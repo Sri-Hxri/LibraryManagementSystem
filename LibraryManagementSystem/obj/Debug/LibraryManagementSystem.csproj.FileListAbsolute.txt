@@ -1,0 +1,17 @@
+C:\Users\HAI\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\HAI\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\HAI\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\HAI\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\HAI\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form1.resources
+C:\Users\HAI\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\HAI\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\HAI\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\HAI\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\HAI\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\HAI\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LoginForm.resources
+C:\Users\HAI\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.RegisterForm.resources
+C:\Users\HAI\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddBooks.resources
+C:\Users\HAI\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Dashboard.resources
+C:\Users\HAI\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.IssueBooks.resources
+C:\Users\HAI\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.MainForm.resources
+C:\Users\HAI\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReturnBooks.resources
